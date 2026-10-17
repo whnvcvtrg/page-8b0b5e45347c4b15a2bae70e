@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "8b3c0cb59ff4a64122522ded",
+  "owner": "whnvcvtrg",
+  "repo": "page-8b0b5e45347c4b15a2bae70e",
+  "title": "云翼星辰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8b0b5e45347c4b15a2bae70e",
+      "a": "云翼星辰",
+      "b": "",
+      "entity": "云翼星辰",
+      "brand": "云翼星辰",
+      "separator": "",
+      "path": "index.html",
+      "hash": "35c0fb1f047ebb8ef4af209b9b4ace05ef631a870450e0df5799963400fd5cbd",
+      "content": {
+        "keyword1": "云翼星辰",
+        "keyword2": "",
+        "primary_entity": "云翼星辰",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云翼星辰像老朋友一样陪着你，为你提供稳定、贴心、舒适的专属网络连接体验，告别卡顿与延迟。",
+          "AI_DESCRIPTION": "云翼星辰像老朋友一样陪着你，为你提供稳定、贴心、舒适的专属网络连接体验，告别卡顿与延迟。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #FDFBF7;color: #4A1525;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.7}\na {color: inherit;text-decoration: none}\n.page-wrapper {display: flex;min-height: 100vh}\n.sidebar {width: 260px;background-color: #5D1526;color: #FDFBF7;padding: 40px 30px;position: fixed;top: 0;bottom: 0;left: 0;display: flex;flex-direction: column;justify-content: space-between;border-right: 4px solid #4A1525}\n.sidebar-logo {font-size: 1.5rem;font-weight: 700;letter-spacing: 2px;margin-bottom: 50px}\n.sidebar-nav {display: flex;flex-direction: column;gap: 20px}\n.sidebar-nav a {font-size: 1.1rem;transition: opacity 0.2s;border-left: 3px solid transparent;padding-left: 10px}\n.sidebar-nav a:hover {opacity: 0.8;border-left-color: #FDFBF7}\n.sidebar-footer {font-size: 0.85rem;opacity: 0.6}\n.main-content {margin-left: 260px;flex: 1;padding: 60px 80px;max-width: 1200px}\n.hero {padding: 80px 0 100px 0;border-bottom: 3px solid #5D1526;margin-bottom: 80px}\n.hero h1 {font-size: clamp(3rem, 7vw, 6.5rem);font-weight: 900;line-height: 1.1;color: #5D1526;text-transform: uppercase;margin-bottom: 30px;letter-spacing: -2px}\n.hero p {font-size: 1.4rem;max-width: 700px;color: #632534;margin-bottom: 40px}\n.hero-btn {display: inline-block;background-color: #5D1526;color: #FDFBF7;padding: 16px 36px;font-size: 1.1rem;font-weight: 600;border: 3px solid #5D1526;transition: all 0.2s}\n.hero-btn:hover {background-color: #FDFBF7;color: #5D1526}\nsection {margin-bottom: 100px}\nh2 {font-size: 2.2rem;color: #5D1526;margin-bottom: 30px;font-weight: 800}\np.section-intro {font-size: 1.1rem;margin-bottom: 40px;color: #632534}\n.about-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 30px}\n.card {background: #FDFBF7;border: 3px solid #5D1526;padding: 35px}\n.card h3 {font-size: 1.3rem;margin-bottom: 15px;color: #5D1526}\n.card p {color: #5B3A42}\n.plans-container {display: flex;flex-direction: column;gap: 30px}\n.plan-card {border: 3px solid #5D1526;padding: 40px;background: #FDFBF7;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 20px;position: relative}\n.plan-card.featured {background: #5D1526;color: #FDFBF7}\n.plan-card.featured h3,\n.plan-card.featured .plan-price,\n.plan-card.featured li {color: #FDFBF7}\n.plan-info {flex: 1;min-width: 280px}\n.plan-card h3 {font-size: 1.6rem;margin-bottom: 10px;color: #5D1526}\n.plan-price {font-size: 1.8rem;font-weight: 800;color: #5D1526;margin-bottom: 5px}\n.plan-annual {font-size: 0.95rem;opacity: 0.8;margin-bottom: 20px}\n.plan-features {list-style: none;display: flex;flex-direction: column;gap: 8px}\n.plan-features li {font-size: 1rem;color: #5B3A42}\n.plan-features li::before {content: \"— \"}\n.plan-action {display: flex;flex-direction: column;align-items: flex-end;gap: 10px}\n.plan-btn {display: inline-block;padding: 12px 30px;font-weight: 700;border: 2px solid #5D1526;background: #5D1526;color: #FDFBF7;transition: all 0.2s}\n.plan-card.featured .plan-btn {background: #FDFBF7;color: #5D1526;border-color: #FDFBF7}\n.plan-btn:hover {opacity: 0.9}\n.faq-group {margin-bottom: 40px}\n.faq-group h3 {font-size: 1.4rem;color: #5D1526;margin-bottom: 20px;border-bottom: 2px solid #5D1526;padding-bottom: 8px}\n.faq-item {border: 3px solid #5D1526;margin-bottom: 15px;background: #FDFBF7}\n.faq-item details {padding: 20px}\n.faq-item summary {font-size: 1.1rem;font-weight: 700;cursor: pointer;color: #5D1526;outline: none}\n.faq-item p {margin-top: 15px;color: #5B3A42}\nfooter {border-top: 3px solid #5D1526;padding-top: 40px;margin-top: 100px;font-size: 0.95rem;color: #5B3A42;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 20px}\n@media (max-width: 900px) {\n  .sidebar {display: none}\n  .main-content {margin-left: 0;padding: 30px 20px}\n  .hero h1 {font-size: 3rem}\n  .plan-action {align-items: flex-start}\n}\n</style><div class=\"page-wrapper\">\n  <aside class=\"sidebar\">\n    <div>\n      <div class=\"sidebar-logo\">云翼星辰</div>\n      <nav class=\"sidebar-nav\">\n        <a href=\"#about\">关于我们</a>\n        <a href=\"#plans\">精选套餐</a>\n        <a href=\"#guide\">使用指南</a>\n        <a href=\"#faq\">常见问题</a>\n      </nav>\n    </div>\n    <div class=\"sidebar-footer\">\n      <p>© 云翼星辰<br>陪你自在穿梭</p>\n    </div>\n  </aside>\n\n  <main class=\"main-content\">\n    <div class=\"hero\">\n      <h1>云翼星辰</h1>\n      <p>嘿！这里是云翼星辰。我们想做的是，让你的每一次网络漫游都像在家里的沙发上一样安稳、舒适。抛开那些复杂的术语和烦人的卡顿，在这里，连接只属于你的星辰大海。</p>\n      <a href=\"#plans\" class=\"hero-btn\">看看有什么适合我</a>\n    </div>\n\n    <section id=\"about\">\n      <h2>为什么大家喜欢找我们？</h2>\n      <p class=\"section-intro\">没别的，就是想让你用得舒心、省心。我们没有花哨的宣传，只有实打实的连接质量。</p>\n      <div class=\"about-grid\">\n        <div class=\"card\">\n          <h3>像朋友一样的陪伴</h3>\n        <p>遇到什么不明白的，随时来找我们。没有冷冰冰的机器回复，只有真诚实在的解答和帮助。</p>\n        </div>\n        <div class=\"card\">\n          <h3>稳稳当当的线路</h3>\n        <p>我们精挑细选了靠谱的节点，不管你是查资料、看视频还是连游戏，都稳得让人放心。</p>\n        </div>\n        <div class=\"card\">\n          <h3>干干净净的体验</h3>\n        <p>页面清爽，操作简单，没有乱七八糟的弹窗广告。打开就能用，怎么顺手怎么来。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <h2>挑选一个适合你的小搭档</h2>\n      <p class=\"section-intro\">阶梯式的小套餐，满足你不同的日常需求。按需选择，绝不浪费。</p>\n      \n      <div class=\"plans-container\">\n        <div class=\"plan-card\">\n          <div class=\"plan-info\">\n            <h3>基础版</h3>\n            <div class=\"plan-price\">¥15/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n            <ul class=\"plan-features\">\n              <li>每月 100GB 极速流量</li>\n              <li>支持 3 台设备同时在线</li>\n              <li>解锁基础流媒体</li>\n              <li>普通线路节点池</li>\n            </ul>\n          </div>\n          <div class=\"plan-action\">\n            <a href=\"#\" class=\"plan-btn\">就选这个</a>\n          </div>\n        </div>\n\n        <div class=\"plan-card featured\">\n          <div class=\"plan-info\">\n            <h3>旗舰版</h3>\n            <div class=\"plan-price\">¥35/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n            <ul class=\"plan-features\">\n              <li>每月 300GB 极速流量</li>\n              <li>支持 5 台设备同时在线</li>\n              <li>全节点原生流媒体解锁</li>\n              <li>IPLC 专线游戏加速优化</li>\n              <li>7x24 优先工单支持</li>\n            </ul>\n          </div>\n          <div class=\"plan-action\">\n            <a href=\"#\" class=\"plan-btn\">最受欢迎 · 立即加入</a>\n          </div>\n        </div>\n\n        <div class=\"plan-card\">\n          <div class=\"plan-info\">\n            <h3>团队版</h3>\n            <div class=\"plan-price\">¥85/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n            <ul class=\"plan-features\">\n              <li>每月 1000GB 极速流量</li>\n              <li>支持 20 台设备同时在线</li>\n              <li>VIP 专属高带宽节点</li>\n              <li>支持企业定制路由</li>\n              <li>专属客户经理服务</li>\n            </ul>\n          </div>\n          <div class=\"plan-action\">\n            <a href=\"#\" class=\"plan-btn\">团队首选</a>\n          </div>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"guide\">\n      <h2>三步就能轻松上手</h2>\n      <p class=\"section-intro\">真的超级简单，按照下面的小步骤，一分钟就能顺畅连上啦。</p>\n      <div class=\"about-grid\">\n        <div class=\"card\">\n          <h3>第一步：挑选心仪套餐</h3>\n          <p>根据平时的使用习惯，选一款最对胃口的套餐，然后带回家。</p>\n        </div>\n        <div class=\"card\">\n          <h3>第二步：获取专属订阅</h3>\n          <p>在用户中心轻轻复制专属于你的订阅链接，整个过程顺滑无比。</p>\n        </div>\n        <div class=\"card\">\n          <h3>第三步：一键导入开航</h3>\n          <p>粘贴到你常用的客户端里，更新节点列表，点击连接，出发！</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题小贴士</h2>\n      <p class=\"section-intro\">大家平时常问的一些小疑问，我们在这里都整理好啦。</p>\n\n      <div class=\"faq-group\">\n        <h3>关于账号与使用</h3>\n        <div class=\"faq-item\">\n          <details>\n            <summary>买完之后怎么开始用呢？</summary>\n            <p>别担心，购买后后台会有一份很直观的新手引导。把订阅地址复制到你顺手的软件里更新一下，就能看到满满的节点列表啦。</p>\n          </details>\n        </div>\n        <div class=\"faq-item\">\n          <details>\n            <summary>手机和电脑可以同时连吗？</summary>\n            <p>当然可以！根据你选的套餐，支持好几台设备一起在线呢。手机、平板、电脑换着用，完全不冲突。</p>\n          </details>\n        </div>\n      </div>\n\n      <div class=\"faq-group\">\n        <h3>关于线路与连接</h3>\n        <div class=\"faq-item\">\n          <details>\n            <summary>如果连不上或者卡顿怎么办？</summary>\n            <p>偶尔遇到网络波动是很正常的哦。你可以先尝试更新一下订阅，或者换一个离你近一点的节点。如果还是觉得不顺心，随时找我们帮忙瞅瞅！</p>\n          </details>\n        </div>\n        <div class=\"faq-item\">\n          <details>\n            <summary>看视频和玩游戏流畅吗？</summary>\n            <p>旗舰版和团队版都特别做了专线优化，看高清视频和连外服游戏都稳得很，绝对不会让你在关键时刻掉链子。</p>\n          </details>\n        </div>\n      </div>\n    </section>\n\n    <footer>\n      <div>云翼星辰 版权所有</div>\n      <div>愿你的每一天，星光灿烂，网络畅通无阻</div>\n    </footer>\n  </main>\n</div>",
+          "hash": "4e457f528708ce7dbea6a645ea2230420b98d019fcdcc81eacea627d4480ac6c",
+          "seo": {
+            "title": "云翼星辰 - 让你的数字生活自在穿梭",
+            "keywords": "云翼星辰,网络加速,稳定连接,专线优化,数字生活",
+            "description": "云翼星辰像老朋友一样陪着你，为你提供稳定、贴心、舒适的专属网络连接体验，告别卡顿与延迟。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7177",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5ptk8e4l.cn",
+    "host": "p-b5b857d1c5.5ptk8e4l.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "43380f0fbdcc96e9d0dd06c789d839dcc3b71e96cc70c7c8acfef8e86282181c",
+    "sitemap.xml": "6d0cf0c976e989979595d4c030cdc6b766d57cb3ab825671f76b405a9921ef03",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5840614ddc53ec2576cd46c5be759939216eaeb4acb05612f851e30d1ff8915d",
+    "robots.txt": "766278db4e08b1b17670c15c7975b3b538348d0e39b51ddb1fced14099e095d5",
+    "256b33813ad8fc43f52d20fa7514aa3a.txt": "518c6a704fb7e97cfcf2bbeb7c4a02cb698ef72b8f7917be548c0d41cad0877c"
+  },
+  "revision": "faae589ed0cbac6056011ae96a5eb589ce5ea8942dab788558ceecb586984e60"
+}
